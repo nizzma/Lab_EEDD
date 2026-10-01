@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="LAB1" Database="" Version="10000">
-  <Project Name="Ejemplo01" Path="Ejercicio01/Ejercicio01.project" Active="No"/>
-  <Project Name="Ejemplo02" Path="Ejercicio02/Ejercicio02.project" Active="No"/>
-  <Project Name="Ejemplo03" Path="Ejercicio03/Ejercicio03.project" Active="No"/>
-  <Project Name="Ejemplo04" Path="Ejercicio04/Ejercicio04.project" Active="No"/>
-  <Project Name="Ejemplo05" Path="Ejercicio05/Ejercicio05.project" Active="No"/>
-  <Project Name="Ejemplo06" Path="Ejercicio06/Ejercicio06.project" Active="No"/>
-  <Project Name="Ejemplo07" Path="Ejercicio07/Ejercicio07.project" Active="No"/>
-  <Project Name="Ejemplo08" Path="Ejercicio08/Ejercicio08.project" Active="No"/>
   <Project Name="Ejemplo09" Path="Ejemplo09/Ejemplo09.project" Active="No"/>
   <Project Name="Ejemplo10" Path="Ejemplo10/Ejemplo10.project" Active="No"/>
   <Project Name="Ejemplo11" Path="Ejemplo11/Ejemplo11.project" Active="No"/>
-  <Project Name="Ejemplo12" Path="Ejemplo12/Ejemplo12.project" Active="Yes"/>
+  <Project Name="Ejemplo12" Path="Ejemplo12/Ejemplo12.project" Active="No"/>
+  <Project Name="Ejercicio01" Path="Ejemplo01/Ejercicio01.project" Active="No"/>
+  <Project Name="Ejercicio02" Path="Ejemplo02/Ejercicio02.project" Active="No"/>
+  <Project Name="Ejercicio03" Path="Ejemplo03/Ejercicio03.project" Active="No"/>
+  <Project Name="Ejercicio04" Path="Ejemplo04/Ejercicio04.project" Active="No"/>
+  <Project Name="Ejercicio05" Path="Ejemplo05/Ejercicio05.project" Active="No"/>
+  <Project Name="Ejercicio06" Path="Ejemplo06/Ejercicio06.project" Active="No"/>
+  <Project Name="Ejercicio07" Path="Ejemplo07/Ejercicio07.project" Active="No"/>
+  <Project Name="Ejercicio08" Path="Ejemplo08/Ejercicio08.project" Active="No"/>
+  <Project Name="Pilas" Path="Pilas/Pilas.project" Active="No"/>
+  <Project Name="Colas" Path="Colas/Colas.project" Active="No"/>
+  <Project Name="Ejemplo13" Path="Ejemplo13/Ejemplo13.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -27,6 +30,17 @@
       <Project Name="Ejemplo10" ConfigName="Debug"/>
       <Project Name="Ejemplo11" ConfigName="Debug"/>
       <Project Name="Ejemplo12" ConfigName="Debug"/>
+      <Project Name="Ejemplo01" ConfigName="Debug"/>
+      <Project Name="Ejemplo02" ConfigName="Debug"/>
+      <Project Name="Ejemplo03" ConfigName="Debug"/>
+      <Project Name="Ejemplo04" ConfigName="Debug"/>
+      <Project Name="Ejemplo05" ConfigName="Debug"/>
+      <Project Name="Ejemplo06" ConfigName="Debug"/>
+      <Project Name="Ejemplo07" ConfigName="Debug"/>
+      <Project Name="Ejemplo08" ConfigName="Debug"/>
+      <Project Name="Pilas" ConfigName="Debug"/>
+      <Project Name="Colas" ConfigName="Debug"/>
+      <Project Name="Ejemplo13" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -42,6 +56,17 @@
       <Project Name="Ejemplo10" ConfigName="Release"/>
       <Project Name="Ejemplo11" ConfigName="Release"/>
       <Project Name="Ejemplo12" ConfigName="Release"/>
+      <Project Name="Ejemplo01" ConfigName="Release"/>
+      <Project Name="Ejemplo02" ConfigName="Release"/>
+      <Project Name="Ejemplo03" ConfigName="Release"/>
+      <Project Name="Ejemplo04" ConfigName="Release"/>
+      <Project Name="Ejemplo05" ConfigName="Release"/>
+      <Project Name="Ejemplo06" ConfigName="Release"/>
+      <Project Name="Ejemplo07" ConfigName="Release"/>
+      <Project Name="Ejemplo08" ConfigName="Release"/>
+      <Project Name="Pilas" ConfigName="Release"/>
+      <Project Name="Colas" ConfigName="Release"/>
+      <Project Name="Ejemplo13" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
